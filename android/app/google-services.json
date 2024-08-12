@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "574284339608",
+    "project_id": "urbanwear-f0b82",
+    "storage_bucket": "urbanwear-f0b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574284339608:android:9fdef6a08c74266dd6b3ed",
+        "android_client_info": {
+          "package_name": "com.example.UrbanWear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574284339608-8t3h2cd9sfk7dqfso60fcn8qntahtp0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.UrbanWear",
+            "certificate_hash": "eeebcc8cf9cdc883898e432514a6cc5f5b3fa11a"
+          }
+        },
+        {
+          "client_id": "574284339608-j6iu86ocbael78uav04pds0tnsj664bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNcaQPRV0u_YvhY8Lq4ABbF5ov_sQFXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574284339608-j6iu86ocbael78uav04pds0tnsj664bi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574284339608-scngrdkiaifn31diic5b4d0lai8gehpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.urbanwear"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574284339608:android:7d990782b151f70dd6b3ed",
+        "android_client_info": {
+          "package_name": "com.example.urbanwear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574284339608-t9nggromvb79hmgbeanqipma2fmer2sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urbanwear",
+            "certificate_hash": "eeebcc8cf9cdc883898e432514a6cc5f5b3fa11a"
+          }
+        },
+        {
+          "client_id": "574284339608-j6iu86ocbael78uav04pds0tnsj664bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNcaQPRV0u_YvhY8Lq4ABbF5ov_sQFXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574284339608-j6iu86ocbael78uav04pds0tnsj664bi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "574284339608-scngrdkiaifn31diic5b4d0lai8gehpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.urbanwear"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
